@@ -1,0 +1,4 @@
+flags:
+  featureId: 1
+  featureName: "delete"
+  turnedOn: true
